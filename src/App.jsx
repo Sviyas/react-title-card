@@ -33,8 +33,10 @@ function Introduction() {
       <h1>Viyas</h1>
 
       <p className='selfIntro'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore autem facilis illo fuga et obcaecati, soluta
-        nulla ullam porro nostrum ratione cupiditate harum at facere omnis repudiandae quidem consequatur impedit.
+        Hello, buddy! Welcome to the world of web development. I am a passionate software developer dedicated to
+        creating scalable and maintainable products. I&rsquo;m not only a tech enthusiast but also a foodie 😁, always
+        on the lookout for exciting culinary experiences. I believe in exploring the world through the lens of
+        technology. Let&rsquo;s embark on this journey together&#33;
       </p>
     </div>
   );
